@@ -1,0 +1,8 @@
+{ "rtn_code": "0",
+  "data": [ {
+      "job_id":         "a1b2c3...",   // 上傳任務
+      "reply_job_id":    "d4e5f6...",   // 回覆檔 ID
+      "reply_status":   "00",
+      "reply_file_name": "R03_20260901.zip"
+  } ] 
+}
